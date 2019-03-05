@@ -1,0 +1,7 @@
+Financial Analysis
+----------------------------------------
+The number of months in this period is 86
+The total profit(loss) for this period is $38,382,578
+The average revenue change is $7803.476744186047
+The greatest increase in revenue was Feb-12 $1926159
+The greatest decrease in revenue was Sep-13 $-2196167

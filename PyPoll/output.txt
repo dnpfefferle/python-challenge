@@ -1,0 +1,5 @@
+Election Results
+___________________________
+The total number of votes cast were: 3521001
+The list of candidates is: ['Khan', 'Correy', 'Li', "O'Tooley"]
+Counter({'Khan': 2218231, 'Correy': 704200, 'Li': 492940, "O'Tooley": 105630})
